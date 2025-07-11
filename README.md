@@ -1,1 +1,5 @@
-# visa-approvals
+## Visa Immigration Approval
+Under the U.S. Immigration and Nationality Act (INA), foreign workers may obtain temporary or permanent visas only if U.S. employers demonstrate a shortage of qualified domestic candidates at competitive wages. This process is administered by the Office of Foreign Labor Certification (OFLC) to safeguard domestic labor markets. However, in FY 2016, the OFLC processed 775,979 employer applications for 1,699,957 positions—a 9% increase from the previous year. As a result, the manual review process has become increasingly tedious and error-prone, straining administrative capacity and delaying visa approvals.
+
+**To address these challenges, it is recommended that OFLC adopt a data-driven, machine learning solution to automate the initial screening of visa applications. By developing a robust classification model that predicts visa approval outcomes based on key historical and contextual factors, the review process can be streamlined significantly. This approach will reduce administrative burdens, ensure more consistent decision-making, and expedite overall processing times—ultimately supporting the timely integration of qualified foreign talent into the U.S. workforce while maintaining strict adherence to statutory requirements.**  
+  
